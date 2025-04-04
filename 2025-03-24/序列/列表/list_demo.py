@@ -62,4 +62,5 @@ if __name__ == '__main__':
 
     list6 = [1, 2, 3]
     list7 = ["a", "b"]
-    print(list6.extend(list7))
+    print(list6.extend(3))
+    print(list6)
